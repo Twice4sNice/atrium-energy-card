@@ -1,0 +1,6 @@
+{
+  "name": "Atrium Energiefluss",
+  "filename": "atrium-energy-card.js",
+  "render_readme": true,
+  "homeassistant": "2025.1.0"
+}
